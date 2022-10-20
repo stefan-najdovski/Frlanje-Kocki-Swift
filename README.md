@@ -11,9 +11,20 @@ The ios app name is inspired from http://drmj.eu/ensearch/dice#%D1%88%D0%B5%D1%8
 
 # What have I learned:
 
-- Build XCode Project.
-- Import Images/Assets.
-- Work with StoryBoard (Labels/ImageView).
+- Arrays
+Example:
+```Swift
+ let diceArray = [#imageLiteral(resourceName: "DiceOne"), #imageLiteral(resourceName: "DiceTwo"), #imageLiteral(resourceName: "DiceThree"), #imageLiteral(resourceName: "DiceFour"), #imageLiteral(resourceName: "DiceFive"), #imageLiteral(resourceName: "DiceSix")]
+```
+
+- Input functions such as @IBAction,@IBOutlet
+- Pseudo Random Number Generator
+Example:
+```Swift
+Int.randome(in: 0...5)
+nameOfArray.randomElement()
+```
+- Mutable and Unmutable types of data (var/let)
 
 # Screenshot:
 ![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Frlanje-Kocki-Swift/main/screenshot.jpeg)
