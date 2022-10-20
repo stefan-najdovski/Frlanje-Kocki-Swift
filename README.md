@@ -16,7 +16,7 @@ The ios app name is inspired from http://drmj.eu/ensearch/dice#%D1%88%D0%B5%D1%8
 - Work with StoryBoard (Labels/ImageView).
 
 # Screenshot:
-![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Frlanje-Kocki-Swift/main/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Frlanje-Kocki-Swift/main/screenshot.jpeg)
 
 
 
