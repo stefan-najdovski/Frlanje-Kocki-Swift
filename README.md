@@ -9,9 +9,9 @@ The ios app name is inspired from http://drmj.eu/ensearch/dice#%D1%88%D0%B5%D1%8
 # Target platform:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-# What have I learned:
+# What have I learned with this project:
 
-- Arrays
+- Array syntax in Swift
 Example:
 ```Swift
  let diceArray = [#imageLiteral(resourceName: "DiceOne"), #imageLiteral(resourceName: "DiceTwo"), #imageLiteral(resourceName: "DiceThree"), #imageLiteral(resourceName: "DiceFour"), #imageLiteral(resourceName: "DiceFive"), #imageLiteral(resourceName: "DiceSix")]
